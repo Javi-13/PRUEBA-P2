@@ -1,0 +1,48 @@
+CRITICAL - 2024-12-18 23:46:16 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "CVistas/Index3.php"
+[Method: GET, Route: Index1-CVistaF1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('CVistas/Index3.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('CVistas/Index3', [], true)
+ 3 APPPATH\Controllers\CVistas.php(9): view('CVistas/Index3')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\CVistas->MMostrar1()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CVistas))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-18 23:52:27 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Carpeta1/Index3.php"
+[Method: GET, Route: Index1-CVistaF1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Carpeta1/Index3.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Carpeta1/Index3', [], true)
+ 3 APPPATH\Controllers\CVistas.php(9): view('Carpeta1/Index3')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\CVistas->MMostrar1()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CVistas))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-18 23:52:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Carpeta1/Index3.php"
+[Method: GET, Route: Index1-CVistaF1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Carpeta1/Index3.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Carpeta1/Index3', [], true)
+ 3 APPPATH\Controllers\CVistas.php(9): view('Carpeta1/Index3')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\CVistas->MMostrar1()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CVistas))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-18 23:53:00 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Carpeta1/Index3.php"
+[Method: GET, Route: Index1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Carpeta1/Index3.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Carpeta1/Index3', [], true)
+ 3 APPPATH\Controllers\CVistas.php(9): view('Carpeta1/Index3')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\CVistas->MMostrar1()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CVistas))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
