@@ -58,7 +58,7 @@
                 window.location.href = "http://localhost/Parcial2DW/Index2-CFormF1";
             }
         };
-
+        //Funcion para cuando el contador sea menor a 20
         btnaumenta.addEventListener('click', function() {
             if (contador < 20) {
                 contador++;
@@ -66,7 +66,7 @@
             }
         });
 
-
+        //Funcion para cuando el contador sea mayor a 0
         btndecrece.addEventListener('click', function() {
             if (contador > 0) {
                 contador--;
